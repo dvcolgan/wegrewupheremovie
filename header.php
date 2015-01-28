@@ -8,6 +8,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="stylesheet" href="/static/css/normalize.css">
+    <link rel="stylesheet" href="/static/css/main.css">
+    <?php
+    /*
     <link rel="stylesheet/less" type="text/css" href="/static/css/main.less" />
     <script src="/static/js/less.min.js"></script>
     <script>
@@ -15,6 +18,8 @@
         less.env='development';
         less.watch();
     </script>
+    */
+    ?>
 </head>
 
 <body>
@@ -26,8 +31,8 @@
             </a>
             <h1><a href="/">We&nbsp;Grew Up&nbsp;Here</a></h1>
             <ul class="top-menu">
-                <li><a href="?p=trailers">Trailers</a></li>
-                <li><a href="?p=about">About</a></li>
-                <li><a href="?p=affiliate">Affiliate</a></li>
+                <li><a href="/trailers/">Trailers</a></li>
+                <li><a href="/about/">About</a></li>
+                <li><a href="/affiliate/">Affiliate</a></li>
             </ul>
         </div>

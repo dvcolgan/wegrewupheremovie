@@ -1,0 +1,173 @@
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2015 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      Fontfabric
+ * License URL: http://www.fontspring.com/licenses/fontfabric/webfont
+ *
+ *
+ */
+@font-face {
+  font-family: 'nexa_lightregular';
+  src: url('webfonts/Nexa_Free_Light-webfont.eot');
+  src: url('webfonts/Nexa_Free_Light-webfont.eot?#iefix') format('embedded-opentype'), url('webfonts/Nexa_Free_Light-webfont.woff2') format('woff2'), url('webfonts/Nexa_Free_Light-webfont.woff') format('woff'), url('webfonts/Nexa_Free_Light-webfont.ttf') format('truetype'), url('webfonts/Nexa_Free_Light-webfont.svg#nexa_lightregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+.clearfix {
+  overflow: auto;
+  zoom: 1;
+}
+a {
+  color: #329c7a;
+}
+a:hover {
+  color: #194f3e;
+}
+body {
+  font-family: 'nexa_lightregular', Arial, sans-serif;
+  background-image: url(/static/images/background.jpg);
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-color: #355246;
+  background-attachment: fixed;
+  background-size: cover;
+  padding-bottom: 70px;
+}
+#wrapper {
+  max-width: 1024px;
+  margin: 0 auto;
+  width: 100%;
+  background-image: url(/static/images/center-column-background.jpg);
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+}
+#header {
+  text-align: center;
+}
+#header .top-logo {
+  display: block;
+  margin: 0 auto;
+  padding-top: 6px;
+}
+#header h1 {
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+  display: inline-block;
+  font-size: 70px;
+  text-transform: uppercase;
+  font-weight: 100;
+  color: #3c3c3a;
+  padding: 0 10px;
+  padding-top: 6px;
+  margin: 12px;
+}
+#header h1 a {
+  text-decoration: inherit;
+  color: inherit;
+}
+#header .top-menu {
+  margin: 0 auto;
+  height: 50px;
+  padding: 0;
+  clear: both;
+  max-width: 700px;
+  margin-bottom: 14px;
+}
+#header .top-menu li {
+  display: block;
+  float: left;
+  font-size: 22px;
+  width: 33%;
+}
+#header .top-menu li a {
+  text-decoration: none;
+  color: black;
+}
+#header .top-menu li a:hover {
+  font-weight: 900;
+}
+#home {
+  padding-bottom: 20px;
+  margin: 20px;
+}
+#home .cover-photo {
+  max-width: 787px;
+  margin: 0 auto;
+}
+#home .cover-photo img {
+  display: block;
+  width: 100%;
+}
+#home p {
+  margin: 26px auto;
+  padding: 0 26px;
+  max-width: 744px;
+  color: black;
+  font-size: 16px;
+}
+#trailers {
+  text-align: center;
+  padding-bottom: 10px;
+}
+#trailers iframe {
+  max-width: 784px;
+  width: 100%;
+  margin-bottom: 30px;
+}
+.text-page .container {
+  margin: 0 auto;
+  margin-top: -12px;
+  max-width: 625px;
+  padding-bottom: 80px;
+}
+.text-page .container h2 {
+  color: #329c7a;
+  font-weight: 100;
+  font-size: 34px;
+  margin: 10px;
+  margin-top: 20px;
+  margin-bottom: 14px;
+  border-bottom: 1px solid black;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.text-page .container p {
+  margin: 10px;
+  margin-top: 0;
+}
+.text-page .container .liam-photo {
+  float: left;
+  margin: 10px;
+  margin-top: 0;
+}
+#footer {
+  padding-top: 36px;
+  padding-bottom: 30px;
+  background-color: black;
+  text-align: center;
+}
+#footer .festival-appearances img {
+  margin: 0 20px;
+}
+#footer .by-attribution {
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 26px;
+}
+#footer .social {
+  text-align: center;
+}
