@@ -5,12 +5,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>We Grew Up Here</title>
     <meta name="description" content="">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width; initial-scale = 1.0; maximum-scale=1.0; user-scalable=no" />
 
     <link rel="stylesheet" href="/static/css/normalize.css">
     <link rel="stylesheet" href="/static/css/main.css">
-    <?php
-    /*
+<?php
+/*
     <link rel="stylesheet/less" type="text/css" href="/static/css/main.less" />
     <script src="/static/js/less.min.js"></script>
     <script>
@@ -18,8 +18,8 @@
         less.env='development';
         less.watch();
     </script>
-    */
-    ?>
+ */
+?>
 </head>
 
 <body>

@@ -6,4 +6,6 @@
 
     <p>This film was crowd-funded by file generosity of the <a href="https://www.kickstarter.com/projects/pickman/we-grew-up-here">KICKSTARTER</a> community and was featured as <a href="http://www.indiewire.com/article/congratulations-to-we-grew-up-here-aprils-project-of-the-month">INDIEWIRE’s</a> April 2012 Project of the Month. It features the music of Chicago-based band <a href="http://paperthickwalls.com/">PAPER THICK WALLS</a> and score by <a href="http://www.lukeramus.com/">LUKE RAMUS</a>.</p>
 
+<p>15 in the Dark is proud to have online distribution for We Grew Up Here through the innovative film platform Yekra. You can stream or buy our film in the player above or <a href="https://www.yekra.com/we-grew-up-here">directly on Yekra's site</a>.
+
 </div>
