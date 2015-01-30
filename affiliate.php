@@ -9,7 +9,14 @@
         <p>Sign up with our affiliate provider via the YEKRA Affiliate Connect Program for free.</p>
         <p>Embed one of YEKRA'S We Grew Up Here widgets or URL links into your website, social media, e-mails or blogs.</p>
         <p>Watch your PayPal balance grow! The YEKRA Affiliate Connect Program will pay commission directly into your PayPal account monthly.</p>
-        <p>Enroll now!</p>
+
+        <script type="text/javascript" src="http://www.yekra.com/javascripts/ac-build-referrer-url.js"></script>
+        <p><a class="yekra-enroll-link"
+           href="https://www.yekra.com/tools/affiliateconnect/enrollment/?products=we-grew-up-here"
+           referrer="1842040nildl9"
+           target="_blank">
+            Enroll now!
+        </a></p>
 
         <h2>Still Have Questions?</h2>
         <p>Contact the YEKRA support team at <a href="mailto:affiliatesupport@yekra.com">affiliatesupport@yekra.com</a>.</p>

@@ -1,7 +1,6 @@
 <div id="home">
-    <div class="cover-photo">
-        <img src="/static/images/cover-photo.jpg" alt="" />
-    </div>
+
+    <div class="cover-photo" id="yekra-player" rel="345" name="YekraPlayer" sizing="auto" deployment="34926069niyc0y"><p><a href="https://www.yekra.com/">Yekra</a> Player</p><p>Yekra is a revolutionary new distribution network for feature films.</p><p><a href="http://www.yekra.com/we-grew-up-here">We Grew Up Here</a></p><p></p><p>A musician who is struggling to cope with his split from his lover and muse begins to suspect that his past is being erased in this unnerving film starring members of Chicago-based band Paper Thick Walls. As songs Liam and Lauren recorded together disappear from tapes and mutual friends deny that they know him, Liam hits the road on a desperate journey to prove to himself and everyone else that he’s not insane—that the life that they built together, and that he threw away, was real. But the terffiying question remains for Liam: How can he find what may not exist?</p><p></p></div><script src="https://www.yekra.com/javascripts/embed.js"> </script>
 
     <p>A musician struggling to cope with his split from his lover and muse begins to suspect his past is being erased in this unnerving film starring members of Chicago band, Paper Thick Walls. As songs Liam and Lauren recorded together disappear from tapes and mutual friends deny they know him, Liam hits the road on a desperate journey to prove to himself and everyone else he's not insane—that the life his that they built together, and that he threw away, was real.</p>
 
